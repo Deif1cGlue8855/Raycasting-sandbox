@@ -3,7 +3,6 @@
 
 #include "player.hpp"
 #include "map.hpp"
-//TESTING
 
 int projPlaneDist = 300;
 int sliceHeights = 128;
