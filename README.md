@@ -15,3 +15,5 @@
 ### EXTRA
 
 If you don't want to recompile it each time, the .exe file should be in build/debug. But it NEEDS to stay in the folder it is in with all other files in there 
+
+The run.bat file I wrote is just a way of compiling it if you want to edit it at all
