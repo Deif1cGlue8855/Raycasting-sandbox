@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\arlot\OneDrive\Documents\C++\3D_VIM\my_project\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arlot\OneDrive\Documents\C++\3D_VIM\my_project\src\map.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\arlot\OneDrive\Documents\C++\3D_VIM\my_project\src\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\arlot\OneDrive\Documents\C++\3D_VIM\my_project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B134873-F86E-3DC4-A250-C9ECE7F12336}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

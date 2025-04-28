@@ -1,0 +1,10 @@
+^C:\USERS\ARLOT\ONEDRIVE\DOCUMENTS\C++\3D_VIM\MY_PROJECT\BUILD\CMAKEFILES\122B52BF3010350FDD2926FF049D8897\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/arlot/OneDrive/Documents/C++/3D_VIM/my_project -BC:/Users/arlot/OneDrive/Documents/C++/3D_VIM/my_project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/arlot/OneDrive/Documents/C++/3D_VIM/my_project/build/RaylibTemplate.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

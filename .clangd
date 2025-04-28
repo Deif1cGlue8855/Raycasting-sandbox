@@ -1,0 +1,6 @@
+CompileFlags:
+  Add: [
+    "-IC:/raylib-5.5_win64_mingw-w64/raylib-5.5_win64_mingw-w64/include",
+    "-IC:/raylib-5.5_win64_mingw-w64/raylib-5.5_win64_mingw-w64/include/external",
+    "-DPLATFORM_DESKTOP"
+  ]
